@@ -1,0 +1,9 @@
+wasp.nl=en
+wasp.mrl=robocup-clang
+wasp.mrl.grammar= /Users/marqhack/nlp/wasp-1.0/data/robocup-clang/mrl-grammar
+wasp.corpus.file=/Users/marqhack/nlp/wasp-1.0/data/robocup-clang/corpus.xml
+wasp.align.model=giza++
+wasp.align.giza++.exec=wasp/align/GIZAPlusPlus.class 
+wasp.translation.model=scfg
+wasp.scfg.init=/Users/marqhack/nlp/wasp-1.0/data/robocup-clang/scfg-init-rules
+wasp.kbest=1
