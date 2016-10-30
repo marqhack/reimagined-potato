@@ -1,0 +1,1 @@
+java wasp.main.Trainer ../data/robocup-clang/config model_out ../data/robocup-clang/split-300/run-0/fold-0/train-N10D
